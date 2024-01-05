@@ -1,0 +1,26 @@
+# YOU MUST EDIT THIS FILE TO MULTIBOX
+# Each wow window is defined by a box command. (max 5)
+# The box command starts with the word box.
+# Then battlenet account.
+# Then password.
+# Then subscription name
+# Then toon name.
+# Then role: tank / melee / healer / caster / hunter
+# FAST OPEN SUPPORT--3 step process:
+# 1) ctrl alt m (open wow windows)
+# 2) ctrl alt k (rename)
+# 3) shift ctrl m (position them all)
+# 4) ctrl alt j (fill in login and enter wow
+# 5) ctrl-e enter world (hits enter in each window)
+# OR
+# 1) ctrl-alt-n (log in each window fully one at a time0
+
+
+box wowaccount@gmail.net PaSsWoRd wow1 cheat-bladefist tank 
+box wowaccount@gmail.net PaSsWoRd wow2 btfo-nathrezim caster
+box wowaccount@gmail.net PaSsWoRd wow3 married healer
+box wowaccount@gmail.net PaSsWoRd wow4 psh caster
+box wowaccount@gmail.net PaSsWoRd wow5 coolness caster
+
+# REMOVE OR COMMENT OUT UNUSED BOX COMMANDS!!!
+# Example: If you are 2-boxing, you should have only two box commands.
