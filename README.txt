@@ -53,7 +53,7 @@ q,e everyone strafe left or right.
 arrow keys MOVE EVERYONE (breaks follow)
 
 Finally--All these keys go to all windows when scroll lock is on:
-A-Z, 1-9, Shift, Ctrl, Alt, Plus, Minus, Esc , Divide, F1-F12 except 1-6,E,F,Q,H, W, A, S, D, R, T, Y, I, U, J, V
+A-Z, 1-9, Shift, Ctrl, Alt, Plus, Minus, Esc , Divide, F1-F12 
 NO keys not listed above do.
 
 
