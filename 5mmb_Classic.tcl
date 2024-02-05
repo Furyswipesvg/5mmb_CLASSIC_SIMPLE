@@ -1144,7 +1144,7 @@ if { $use2monitors } {
 // Notice there is an exception list at the end.
 // The word %Trigger% gets replaced with whatever key you clicked.
 //-----------------------------------------------------------
-  <Hotkey ScrollLockOn A-Z, 1-9, Shift, Ctrl, Alt, Plus, Minus, Esc , Divide, F1-F12 except 1-6,E,F,Q,H, W, A, S, D, R, T, Y, I, U, J, V>}
+  <Hotkey ScrollLockOn A-Z, 1-9, Shift, Ctrl, Alt, Plus, Minus, Esc , Divide, F1-F9, F11, F12 except 1-6,E,F,Q,H, W, A, S, D, R, T, Y, I, U, J, V>}
 	puts $hK $winlabels
 	puts $hK {	<Key %Trigger%>}
 	puts $hK ""
